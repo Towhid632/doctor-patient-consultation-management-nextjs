@@ -34,3 +34,5 @@ const doctors = [
   // Call the function to add the patients
   addDoctorsToFirestore(doctors);
   
+
+  export {doctors} ;
